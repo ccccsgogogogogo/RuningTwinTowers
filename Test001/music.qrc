@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>music/dongji~.mp3</file>
+        <file>music/view~.mp3</file>
+        <file>music/opendoor.mp3</file>
+        <file>music/mus.mp3</file>
+    </qresource>
+</RCC>
